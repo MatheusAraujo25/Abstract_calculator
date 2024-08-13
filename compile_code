@@ -1,0 +1,1 @@
+gcc -o Abstract_Calculator.bin Abstract_Calculator.c -Wno-deprecated-declarations -lm `pkg-config --cflags --libs gtk+-3.0` -rdynamic
