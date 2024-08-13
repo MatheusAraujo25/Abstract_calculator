@@ -665,5 +665,3 @@ void on_button_fixed3_func8_clicked(GtkButton *button)
     }
 }
 
-///Desktop/ProjetoCalculo/Interface_grafica
-
